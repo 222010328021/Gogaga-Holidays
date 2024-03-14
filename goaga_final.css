@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+
+@media (min-width: 768px) {
+    .carousel-inner img {
+        height: 400px;
+
+    }
+}
+
+.nav-img {
+    height: 40px;
+}
+
+.About {
+    margin-left: 15px;
+    margin-right: 15px;
+    text-align: center;
+}
+
+.footer-section {
+    background-color: #0d2436;
+}
+
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.food-munch-logo {
+    width: 250px;
+    height: 100px;
+}
